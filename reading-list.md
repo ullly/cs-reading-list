@@ -39,7 +39,7 @@ Senior Fresh
 ------------
 
 -   Algorithms and Data Structures: Algorithms by Robert Sedgewick and Kevin
-    Wayne
+    Wayne, Grokking Algorithms by Aditya Bhargava
 
 -   Systems Programming: Beej’s Guide to C Programming by Brian Hall
 
@@ -51,9 +51,8 @@ Senior Fresh
 -   Discrete Mathematics: No textbook used
 
 -   Concurrent Systems and Operating Systems: Operating Systems - Three Easy
-    Pieces by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, ARM Assembly
-    Language - Fundamentals and Techniques by William Hohl and Christopher
-    Hinds, The Spin Model Checker by Gerard J. Holzmann
+    Pieces by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, The Spin
+    Model Checker by Gerard J. Holzmann
 
 -   Microprocessor Systems: ARM Assembly Language - Fundamentals and Techniques
     by William Hohl and Christopher Hinds
@@ -90,7 +89,8 @@ Junior Sophister
 
 -   Concurrent Systems I: No textbook used
 
--   Statistical Methods for Computer Science: No textbook used
+-   Statistical Methods for Computer Science: A First Course in Probability by
+    Sheldon Ross
 
 -   Advanced Telecommunications: Data Communications and Networking by Behrouz
     A. Forouzan
