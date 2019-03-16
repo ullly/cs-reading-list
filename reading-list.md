@@ -89,8 +89,8 @@ Junior Sophister
 
 -   Concurrent Systems I: No textbook used
 
--   Statistical Methods for Computer Science: A First Course in Probability by
-    Sheldon Ross
+-   Statistical Methods for Computer Science: Probability for the Enthusiastic
+    Beginner by David J. Morin
 
 -   Advanced Telecommunications: Data Communications and Networking by Behrouz
     A. Forouzan
