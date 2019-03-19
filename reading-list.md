@@ -52,7 +52,8 @@ Senior Fresh
 
 -   Concurrent Systems and Operating Systems: Operating Systems - Three Easy
     Pieces by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, The Spin
-    Model Checker by Gerard J. Holzmann
+    Model Checker by Gerard J. Holzmann, Introduction to Operating System Design
+    and Implementation by Michael Kifer and Scott Smolka
 
 -   Microprocessor Systems: ARM Assembly Language - Fundamentals and Techniques
     by William Hohl and Christopher Hinds
