@@ -58,7 +58,8 @@ Senior Fresh
 -   Microprocessor Systems: ARM Assembly Language - Fundamentals and Techniques
     by William Hohl and Christopher Hinds
 
--   Computer Architecture I: No textbook used
+-   Computer Architecture I: Logic and Computer Design Fundamentals by M. Morris
+    Mano and Charles Kime
 
 -   Programming Project II: Code Complete by Steve McConnell
 
