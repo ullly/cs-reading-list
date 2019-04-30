@@ -87,7 +87,7 @@ Junior Sophister
     Shoichiro Nakamura, Numerical Methods for Engineers and Scientists by Amos
     Gilat and Vish Subramaniam
 
--   Software Engineering Group Project: No textbook used
+-   Software Engineering Group Project: Dreaming in Code by Scott Rosenberg
 
 -   Concurrent Systems I: No textbook used
 
@@ -95,7 +95,7 @@ Junior Sophister
     Beginner by David J. Morin
 
 -   Advanced Telecommunications: Data Communications and Networking by Behrouz
-    A. Forouzan
+    A. Forouzan, Understanding Cryptography by Christof Paar and Jan Pelzl
 
 -   Artificial Intelligence: Artificial Intelligence - Foundations of
     Computational Agents by David L. Poole and Alan K. Mackworth
