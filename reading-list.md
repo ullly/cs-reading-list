@@ -3,10 +3,8 @@ title: A Computer Science Reading List
 author: by Ultan
 ---
 
-Textbooks are not a requirement for all modules. Often School provided
-materials, classmates and a look online are more than enough. For some modules
-however a textbook is invaluable. The textbooks below are useful either as
-background reading or as a course textbook.
+The textbooks below are useful either as background reading or, in some cases,
+as a course textbook.
 
  
 
@@ -99,6 +97,27 @@ Junior Sophister
 
 -   Artificial Intelligence: Artificial Intelligence - Foundations of
     Computational Agents by David L. Poole and Alan K. Mackworth
+
+ 
+
+Senior Sophister
+----------------
+
+-   Internet Applications: No textbook used
+
+-   Fuzzy Logic and Control Systems: No textbook used
+
+-   Formal Verification: Logic in Computer Science - Modelling and Reasoning
+    About Systems by Michael Huth and Mark Ryan
+
+-   Human Factors: Interaction Design by Helen Sharp, Yvonne Rogers and Jennifer
+    Preece
+
+-   Computer Vision: A Practical Introduction to Computer Vision With OpenCV by
+    Kenneth Dawson-Howe
+
+-   Entrepreneurship: Entrepreneurship - Successfully Launching New Ventures by
+    Bruce R. Barringer and R. Duane Ireland
 
  
 
