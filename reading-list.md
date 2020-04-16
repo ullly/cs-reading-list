@@ -25,7 +25,7 @@ Junior Fresh
 -   Electronics: Foundations of Electronics - Circuits and Devices by Russell L.
     Meade
 
--   Computers & Society: Computing - A Concise History by Paul E. Ceruzzi, The
+-   Computers and Society: Computing - A Concise History by Paul E. Ceruzzi, The
     Victorian Internet by Tom Standage
 
 -   Telecommunications: Data Communications and Networking by Behrouz A.
@@ -118,6 +118,11 @@ Senior Sophister
 
 -   Entrepreneurship: Entrepreneurship - Successfully Launching New Ventures by
     Bruce R. Barringer and R. Duane Ireland
+
+-   Group Design Project: Agile Software Development with Scrum by Ken Schwaber
+    and Mike Beedle
+
+-   Final Year Project: Writing for Computer Science by Justin Zobel
 
  
 
